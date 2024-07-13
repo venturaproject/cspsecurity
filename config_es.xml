@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>cspsecurity</name>
+    <displayName><![CDATA[CSP Security]]></displayName>
+    <version><![CDATA[1.1.0]]></version>
+    <description><![CDATA[A&ntilde;ade una pol&iacute;tica de seguridad de contenido para prevenir ataques JS.]]></description>
+    <author><![CDATA[PrestaShop]]></author>
+    <tab><![CDATA[]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+</module>

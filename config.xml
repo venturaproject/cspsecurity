@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+  <name>cspsecurity</name>
+  <displayName><![CDATA[CSP Security]]></displayName>
+  <version><![CDATA[1.0.0]]></version>
+  <author><![CDATA[Tu Nombre]]></author>
+  <tab><![CDATA[security]]></tab>
+  <description><![CDATA[Añade una política de seguridad de contenido para prevenir ataques JS.]]></description>
+  <compatibility>
+    <minVersion><![CDATA[1.7.0.0]]></minVersion>
+    <maxVersion><![CDATA[1.7.99.99]]></maxVersion>
+  </compatibility>
+</module>
