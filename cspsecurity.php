@@ -145,7 +145,7 @@ class CspSecurity extends Module
 
                 'input' => array(array(
                     'type' => 'switch',
-                    'label' => $this->getTranslator()->trans('Activar bloque', [], 'Modules.CspSecurity.Admin'),
+                    'label' => $this->getTranslator()->trans('Enable CSP', [], 'Modules.CspSecurity.Admin'),
                     'name' => 'CSP_SECURITY_ENABLED',
                     'class' => 'fixed-width-xs',
                     'desc' => $this->getTranslator()->trans('Enabled the Content-Security-Policy meta tag will be displayed in the web source code.', [], 'Modules.CspSecurity.Admin'),
