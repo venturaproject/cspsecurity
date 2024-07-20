@@ -2,8 +2,8 @@
 <module>
   <name>cspsecurity</name>
   <displayName><![CDATA[CSP Security]]></displayName>
-  <version><![CDATA[1.0.0]]></version>
-  <author><![CDATA[Tu Nombre]]></author>
+  <version><![CDATA[1.1.0]]></version>
+  <author><![CDATA[Prestashop]]></author>
   <tab><![CDATA[security]]></tab>
   <description><![CDATA[Añade una política de seguridad de contenido para prevenir ataques JS.]]></description>
   <compatibility>
